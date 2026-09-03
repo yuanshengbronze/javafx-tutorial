@@ -1,4 +1,5 @@
 public class Duke {
+    private String commandType;
     public static void main(String[] args) {
         System.out.println("Hello!");
     }
